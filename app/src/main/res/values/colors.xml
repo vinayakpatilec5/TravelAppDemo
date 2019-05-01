@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#d0d0d0</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="header_color">#373c4a</color>
+    <color name="sub_header_color">#7c8495</color>
+
+    <color name="transparent_back">#70000000</color>
+
+    <color name="dark_green">#059176</color>
+    <color name="light_green">#e7fcf8</color>
+
+    <color name="detail_header">#474c57</color>
+    <color name="detail_desc">#4a4a4a</color>
+
+    <color name="btn_bg">#059176</color>
+
+
+
+
+</resources>
